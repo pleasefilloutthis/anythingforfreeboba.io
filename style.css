@@ -35,9 +35,11 @@ gap: 100px;
 .flex-container p1.b {
 font-size: 30px;
 white-space: normal;
+font-family: 'Courier New', Courier, monospace;
 word-spacing: 4.5px;
 }
 p{
+  font-family: sans-serif;
     text-align: center;
     font-size: 30px;
 }.footer-container  img{
